@@ -1,0 +1,31 @@
+Syslog Client module
+
+:: resources
+    http://tools.ietf.org/html/rfc3164
+    http://sourceforge.net/projects/syslog-server/
+    http://www.monitorware.com/common/en/articles/syslog-described.php
+
+:: Version 1.0.0
+    Initial release
+
+
+:: Supported Commands
+    'INIT', 
+    'PROPERTY', 
+    '?PROPERTY', 
+    '?COUNT', 
+    'COUNT', 
+    'PASSTHRU'
+
+:: Supported Feedback
+    CHANNEL
+	[DEVICE_COMMUNICATING]
+    STRING
+
+:: Supported Properties
+    'hostname', 
+    'ipaddress', 
+    'facility', 
+    'severity'
+    
+
