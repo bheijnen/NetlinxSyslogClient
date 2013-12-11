@@ -142,6 +142,10 @@
 <FilePathName>SyslogClient.txt</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="None" Type="Other"><Identifier>todo</Identifier>
+<FilePathName>todo.txt</FilePathName>
+<Comments></Comments>
+</File>
 </System>
 </Project>
 </Workspace>

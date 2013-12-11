@@ -1,0 +1,9 @@
+Version 1.0.1	todo list
+
+1.   Regression testing
+	use multiple modules sending a lot of messages to 1 virtual device.
+
+2.   adding command for setting the AMX_LOG_LEVEL
+	...
+
+3.   
